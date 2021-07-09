@@ -1,16 +1,25 @@
-# marketeasyapp
+# Market Easy App System
 
-A new Flutter project.
+Catálogo de produtos multiusuário para visualização de listagem de produtos.
 
-## Getting Started
+# Versão
+alpha 1.0.0+1
 
-This project is a starting point for a Flutter application.
+## Instruções para manuseio do código
 
-A few resources to get you started if this is your first Flutter project:
+* É necessário a versão 2.2.3 Stable Channel do Flutter para manipulação correta do código
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* É necessário a Dart SDK na versão >=2.12.0 <3.0.0
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* As dependências utilizadas para desenvolvimento do projeto são as seguintes:
+  get: ^4.1.4
+  shared_preferences: ^2.0.6
+  http: ^0.13.3
+  intl: ^0.17.0
+
+* Não é necessário quaisquer dependências de desenvolvedor
+
+* O sistema é suportado apenas nas plataformas: Android e iOS
+
+Quaisquer dúvidas, entre em contato por victorcristovaoproppe@gmail.com
+
